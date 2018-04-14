@@ -1,0 +1,2 @@
+# Sudoku
+Popular puzzle game.
